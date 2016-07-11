@@ -1,0 +1,297 @@
+GO;Iacri;BA;Ilheus;grao;2199,5;0
+GO;Uruacu;BA;Ilheus;grao;1800,7;0
+GO;Jandaia;BA;Ilheus;grao;2449,6;0
+GO;Quirinopolis;BA;Ilheus;grao;2694,6;0
+GO;Juranda;BA;Ilheus;grao;2544,6;0
+MT;Agua Boa;BA;Ilheus;grao;2206,7;0
+MT;Paranatinga;BA;Ilheus;grao;2547,5;0
+MT;Lucas do Rio Verde;BA;Ilheus;grao;2840,7;0
+MT;Brasnorte;BA;Ilheus;grao;3110,7;0
+RO;Vilhena;BA;Ilheus;grao;3430,7;0
+TO;Figueiropolis;BA;Ilheus;grao;1490;0
+TO;Taipas do Tocantins;BA;Ilheus;grao;1220;0
+BA;Luis Eduardo Magalhaes;BA;Ilheus;grao;1043;0
+BA;Iguatu;BA;Ilheus;grao;943;0
+BA;Caetite;BA;Ilheus;grao;530;0
+BA;Tanhacu;BA;Ilheus;grao;350;0
+TO;Aguiarnopolis;BA;Ilheus;grao;2262,6;0
+TO;Palmeirante;BA;Ilheus;grao;2028,6;0
+TO;Araguaina;BA;Ilheus;grao;2187;0
+TO;Guarai;BA;Ilheus;grao;1987;0
+TO;Porto Nacional;BA;Ilheus;grao;1757,1;0
+TO;Babaculandia;BA;Ilheus;grao;2168,6;0
+TO;Gurupi;BA;Ilheus;grao;1540,1;0
+GO;Porangatu;BA;Ilheus;grao;1644;0
+GO;Santa Isabel;BA;Ilheus;grao;1999,5;0
+GO;Sao Simao;BA;Ilheus;grao;2524,3;0
+GO;Trindade;BA;Ilheus;grao;1586,13;0
+MT;Rondonopolis;SP;Santos;grao;1664;0
+SP;Andradina;SP;Santos;grao;837,79;0
+SP;Aracatuba;SP;Santos;grao;705,08;0
+SP;Bauru;SP;Santos;grao;1544,77;0
+MS;Tres Lagoas;SP;Santos;grao;898;0
+MS;Aparecida do Taboado;SP;Santos;grao;925;0
+SP;Araraquara;SP;Santos;grao;1380,69;0
+SP;Placido de Castro;SP;Santos;grao;523,08;0
+SP;Fernandopolis;SP;Santos;grao;1597,9;0
+SP;Itirapina;SP;Santos;grao;761,44;0
+SP;Paulinia;SP;Santos;grao;272,56;0
+SP;Pederneiras;SP;Santos;grao;997,68;0
+SP;SP_Laranjal_Paulista;SP;Santos;grao;255;0
+SP;Pradopolis;SP;Santos;grao;1054,08;0
+SP;Santa Adelia;SP;Santos;grao;1149,8;0
+SP;Sao Jose do Rio Preto;SP;Santos;grao;1322,33;0
+SP;Votuporanga;SP;Santos;grao;756,16;0
+SP;Santos;SP;Santos;grao;0;0
+SP;Mairinque;SP;Santos;grao;148,66;0
+SP;Buriti dos Montes;SP;Santos;grao;211,3;0
+SP;Jau;SP;Santos;grao;991,98;0
+SP;Saboeiro;SP;Santos;grao;536,91;0
+SP;Sorocaba;SP;Santos;grao;172,99;0
+SP;Anhembi;SP;Santos;grao;324,62;0
+SP;Ourinhos;SP;Santos;grao;1111,01;0
+SP;Presidente Epitacio;SP;Santos;grao;917,05;0
+SP;Presidente Prudente;SP;Santos;grao;813,05;0
+SP;Ipaussu;SP;Santos;grao;501,22;0
+SP;Canitar;SP;Santos;grao;518,46;0
+SP;Buri;SP;Santos;grao;367,22;0
+SP;Apiai;SP;Santos;grao;495,14;0
+SP;Ituverava;SP;Santos;grao;1330,34;0
+SP;Mogi Guacu;SP;Santos;grao;738,95;0
+SP;Ribeirao Preto;SP;Santos;grao;1124,79;0
+SP;Sao Joaquim da Barra;SP;Santos;grao;1281,54;0
+GO;Silvania;SP;Santos;grao;1705,4;0
+GO;Uruacu;SP;Santos;grao;1800;0
+MG;Iturama;SP;Santos;grao;931,56;0
+GO;Jandaia;SP;Santos;grao;1392,7;0
+GO;Ouro Verde de Goias;SP;Santos;grao;1598,7;0
+GO;Quirinopolis;SP;Santos;grao;1147,7;0
+GO;Juranda;SP;Santos;grao;1297,7;0
+GO;Sao Simao;SP;Santos;grao;1060,23;0
+GO;Trindade;SP;Santos;grao;1510,7;0
+MG;Uniao de Minas;SP;Santos;grao;968,49;0
+SP;Penaforte;SP;Santos;grao;60,38;0
+SP;Sao Caetano do Sul;SP;Santos;grao;67,44;0
+SP;Santos;SP;Santos;grao;150,56;0
+SP;Sao Paulo;SP;Santos;grao;74,63;0
+SP;Itaquaquecetuba;SP;Santos;grao;102,11;0
+SP;Guaratingueta;SP;Santos;grao;275,99;0
+SP;Roseira;SP;Santos;grao;255,54;0
+SP;Pindamonhangaba;SP;Santos;grao;245,56;0
+SP;Taubate;SP;Santos;grao;219,64;0
+SP;Cacapava;SP;Santos;grao;198,25;0
+SP;Sao Jose dos Campos;SP;Santos;grao;175,57;0
+SP;Carazinho;SP;Santos;grao;122,61;0
+SP;Mogi das Cruzes;SP;Santos;grao;125,17;0
+SP;Suzano;SP;Santos;grao;130,74;0
+SP;Conchas;SP;Santos;grao;284,8;0
+SP;Andradina;SP;Paulinia;grao;1638,12;0
+SP;Aracatuba;SP;Paulinia;grao;1225,78;0
+SP;Bauru;SP;Paulinia;grao;1807,51;0
+SP;Araraquara;SP;Paulinia;grao;678,1;0
+SP;Placido de Castro;SP;Paulinia;grao;19,48;0
+SP;Fernandopolis;SP;Paulinia;grao;560,61;0
+SP;Itirapina;SP;Paulinia;grao;142,14;0
+SP;Paulinia;SP;Paulinia;grao;8;0
+SP;Pederneiras;SP;Paulinia;grao;270,39;0
+SP;Pradopolis;SP;Paulinia;grao;576,78;0
+SP;Santa Adelia;SP;Paulinia;grao;336,5;0
+SP;Sao Jose do Rio Preto;SP;Paulinia;grao;842,03;0
+SP;Votuporanga;SP;Paulinia;grao;523,86;0
+SP;Santos;SP;Paulinia;grao;271,26;0
+SP;Mairinque;SP;Paulinia;grao;136;0
+SP;Buriti dos Montes;SP;Paulinia;grao;198,63;0
+SP;Jau;SP;Paulinia;grao;259,68;0
+SP;Saboeiro;SP;Paulinia;grao;304,61;0
+SP;Sorocaba;SP;Paulinia;grao;160,32;0
+SP;Anhembi;SP;Paulinia;grao;311,96;0
+SP;Ourinhos;SP;Paulinia;grao;516,35;0
+SP;Presidente Epitacio;SP;Paulinia;grao;904,38;0
+SP;Presidente Prudente;SP;Paulinia;grao;800,38;0
+SP;Ipaussu;SP;Paulinia;grao;488,56;0
+SP;Canitar;SP;Paulinia;grao;505,8;0
+SP;Buri;SP;Paulinia;grao;354,55;0
+SP;Apiai;SP;Paulinia;grao;482,48;0
+SP;Ituverava;SP;Paulinia;grao;387,78;0
+SP;Mogi Guacu;SP;Paulinia;grao;96,39;0
+SP;Ribeirao Preto;SP;Paulinia;grao;557,23;0
+SP;Sao Joaquim da Barra;SP;Paulinia;grao;361,98;0
+SP;Serrana;SP;Paulinia;grao;575,56;0
+SP;Andradina;SP;Campinas;grao;805,64;0
+SP;Aracatuba;SP;Campinas;grao;525,3;0
+SP;Bauru;SP;Campinas;grao;1009,06;0
+SP;Araraquara;SP;Campinas;grao;411,14;0
+SP;Fernandopolis;SP;Campinas;grao;541,12;0
+SP;Itirapina;SP;Campinas;grao;122,66;0
+SP;Pederneiras;SP;Campinas;grao;250,9;0
+SP;Pradopolis;SP;Campinas;grao;269,3;0
+SP;Santa Adelia;SP;Campinas;grao;317,02;0
+SP;Sao Jose do Rio Preto;SP;Campinas;grao;405,55;0
+SP;Votuporanga;SP;Campinas;grao;504,38;0
+SP;Santos;SP;Campinas;grao;251,78;0
+SP;Mairinque;SP;Campinas;grao;116,52;0
+SP;Buriti dos Montes;SP;Campinas;grao;179,15;0
+SP;Jau;SP;Campinas;grao;240,2;0
+SP;Saboeiro;SP;Campinas;grao;285,13;0
+SP;Sorocaba;SP;Campinas;grao;140,84;0
+SP;Anhembi;SP;Campinas;grao;292,48;0
+SP;Andradina;PR;Paranagua;grao;1276,56;0
+SP;Aracatuba;PR;Paranagua;grao;1143,86;0
+SP;Araraquara;PR;Paranagua;grao;1047,57;0
+SP;Placido de Castro;PR;Paranagua;grao;846,82;0
+SP;Itirapina;PR;Paranagua;grao;968,18;0
+SP;Paulinia;PR;Paranagua;grao;866,3;0
+SP;Pradopolis;PR;Paranagua;grao;1114,82;0
+SP;Anhembi;PR;Paranagua;grao;504,8;0
+PR;Cascavel;PR;Paranagua;grao;1472,46;0
+PR;Londrina;PR;Paranagua;grao;1280,66;0
+PR;Maringa;PR;Paranagua;grao;1953,41;0
+SP;Ourinhos;PR;Paranagua;grao;2545,39;0
+PR;Ponta Grossa;PR;Paranagua;grao;464;0
+SP;Presidente Epitacio;PR;Paranagua;grao;3709,46;0
+PR;Rolandia;PR;Paranagua;grao;1224,42;0
+SP;Presidente Prudente;PR;Paranagua;grao;2265,47;0
+SP;Ipaussu;PR;Paranagua;grao;876,49;0
+SP;Canitar;PR;Paranagua;grao;1718,49;0
+SP;Buri;PR;Paranagua;grao;1020,9;0
+SP;Apiai;PR;Paranagua;grao;885,82;0
+SC;Maranguape;PR;Paranagua;grao;522,98;0
+PR;Cambe;PR;Paranagua;grao;624,52;0
+PR;Ventania;PR;Paranagua;grao;130,54;0
+PR;Guarapuava;PR;Paranagua;grao;982,21;0
+PR;Harmonia;PR;Paranagua;grao;482,76;0
+PR;Cascavel;SC;Sao Francisco do Sul;grao;840,46;0
+PR;Londrina;SC;Sao Francisco do Sul;grao;736,66;0
+PR;Maringa;SC;Sao Francisco do Sul;grao;757,41;0
+SP;Ourinhos;SC;Sao Francisco do Sul;grao;953,7;0
+PR;Ponta Grossa;SC;Sao Francisco do Sul;grao;337;0
+SP;Presidente Epitacio;SC;Sao Francisco do Sul;grao;1341,73;0
+PR;Rolandia;SC;Sao Francisco do Sul;grao;717,42;0
+SP;Presidente Prudente;SC;Sao Francisco do Sul;grao;1237,73;0
+SP;Canitar;SC;Sao Francisco do Sul;grao;964,24;0
+SP;Buri;SC;Sao Francisco do Sul;grao;615,45;0
+SP;Apiai;SC;Sao Francisco do Sul;grao;547,91;0
+SC;Maranguape;SC;Sao Francisco do Sul;grao;504,98;0
+PR;Cambe;SC;Sao Francisco do Sul;grao;729,52;0
+SP;Ipaussu;SC;Sao Francisco do Sul;grao;981,49;0
+PR;Ventania;SC;Sao Francisco do Sul;grao;235,54;0
+PR;Guarapuava;SC;Sao Francisco do Sul;grao;1192,21;0
+PR;Harmonia;SC;Sao Francisco do Sul;grao;587,76;0
+SC;Capivari de Baixo;SC;Imbituba;grao;45,74;0
+SC;Criciuma;SC;Imbituba;grao;106,7;0
+GO;Iacri;MA;Sao Luis;grao;4354,8;0
+GO;Silvania;MA;Sao Luis;grao;1608,6;0
+GO;Uruacu;MA;Sao Luis;grao;1817;0
+MG;Iturama;MA;Sao Luis;grao;2880,54;0
+GO;Jandaia;MA;Sao Luis;grao;2419,4;0
+GO;Ouro Verde de Goias;MA;Sao Luis;grao;2213,4;0
+GO;Quirinopolis;MA;Sao Luis;grao;2664,4;0
+GO;Juranda;MA;Sao Luis;grao;2514,4;0
+MT;Agua Boa;MA;Sao Luis;grao;2223;0
+MT;Paranatinga;MA;Sao Luis;grao;2563,8;0
+MT;Lucas do Rio Verde;MA;Sao Luis;grao;2857;0
+MT;Brasnorte;MA;Sao Luis;grao;3127;0
+RO;Vilhena;MA;Sao Luis;grao;3447;0
+TO;Figueiropolis;MA;Sao Luis;grao;1506,3;0
+TO;Taipas do Tocantins;MA;Sao Luis;grao;1776,3;0
+BA;Luis Eduardo Magalhaes;MA;Sao Luis;grao;1953,3;0
+BA;Iguatu;MA;Sao Luis;grao;2053,3;0
+BA;Caetite;MA;Sao Luis;grao;2466,3;0
+BA;Tanhacu;MA;Sao Luis;grao;2646,3;0
+TO;Aguiarnopolis;MA;Sao Luis;grao;733,7;0
+TO;Palmeirante;MA;Sao Luis;grao;967,7;0
+TO;Araguaina;MA;Sao Luis;grao;799;0
+TO;Guarai;MA;Sao Luis;grao;1009;0
+TO;Porto Nacional;MA;Sao Luis;grao;1239,2;0
+TO;Babaculandia;MA;Sao Luis;grao;827,7;0
+TO;Gurupi;MA;Sao Luis;grao;1456,2;0
+GO;Porangatu;MA;Sao Luis;grao;1660,3;0
+GO;Santa Isabel;MA;Sao Luis;grao;2015,8;0
+GO;Sao Simao;MA;Sao Luis;grao;2540,6;0
+GO;Trindade;MA;Sao Luis;grao;1555,93;0
+MG;Uniao de Minas;MA;Sao Luis;grao;2098,14;0
+GO;Iacri;PA;Barcarena;grao;2157,1;0
+GO;Uruacu;PA;Barcarena;grao;1758,3;0
+GO;Jandaia;PA;Barcarena;grao;2407,2;0
+GO;Quirinopolis;PA;Barcarena;grao;2652,2;0
+GO;Juranda;PA;Barcarena;grao;2502,2;0
+MT;Agua Boa;PA;Barcarena;grao;2164,3;0
+MT;Paranatinga;PA;Barcarena;grao;2505,1;0
+MT;Lucas do Rio Verde;PA;Barcarena;grao;2798,3;0
+MT;Brasnorte;PA;Barcarena;grao;3068,3;0
+RO;Vilhena;PA;Barcarena;grao;3388,3;0
+TO;Figueiropolis;PA;Barcarena;grao;1447,6;0
+TO;Taipas do Tocantins;PA;Barcarena;grao;1717,6;0
+BA;Luis Eduardo Magalhaes;PA;Barcarena;grao;1894,6;0
+BA;Iguatu;PA;Barcarena;grao;1994,6;0
+BA;Caetite;PA;Barcarena;grao;2407,6;0
+BA;Tanhacu;PA;Barcarena;grao;2587,6;0
+TO;Aguiarnopolis;PA;Barcarena;grao;675;0
+TO;Palmeirante;PA;Barcarena;grao;909;0
+TO;Araguaina;PA;Barcarena;grao;740,5;0
+TO;Guarai;PA;Barcarena;grao;950,5;0
+TO;Porto Nacional;PA;Barcarena;grao;1180,5;0
+TO;Babaculandia;PA;Barcarena;grao;769;0
+TO;Gurupi;PA;Barcarena;grao;1397,5;0
+GO;Porangatu;PA;Barcarena;grao;1601,6;0
+GO;Santa Isabel;PA;Barcarena;grao;1957,1;0
+GO;Sao Simao;PA;Barcarena;grao;2481,9;0
+GO;Trindade;PA;Barcarena;grao;1543,73;0
+GO;Iacri;RO;Porto Velho;grao;3287,2;0
+GO;Uruacu;RO;Porto Velho;grao;2400;0
+GO;Juranda;RO;Porto Velho;grao;3569,2;0
+MT;Agua Boa;RO;Porto Velho;grao;1994;0
+MT;Paranatinga;RO;Porto Velho;grao;1653,2;0
+MT;Lucas do Rio Verde;RO;Porto Velho;grao;1360;0
+MT;Brasnorte;RO;Porto Velho;grao;1090;0
+RO;Vilhena;RO;Porto Velho;grao;770;0
+TO;Figueiropolis;RO;Porto Velho;grao;2710,7;0
+TO;Taipas do Tocantins;RO;Porto Velho;grao;2980,7;0
+BA;Luis Eduardo Magalhaes;RO;Porto Velho;grao;3157,7;0
+BA;BA_Barreiras;RO;Porto Velho;grao;3257,7;0
+BA;Caetite;RO;Porto Velho;grao;3670,7;0
+BA;Tanhacu;RO;Porto Velho;grao;3850,7;0
+TO;Aguiarnopolis;RO;Porto Velho;grao;3483,3;0
+TO;Palmeirante;RO;Porto Velho;grao;3249,3;0
+TO;Araguaina;RO;Porto Velho;grao;3417,8;0
+TO;Guarai;RO;Porto Velho;grao;3207,8;0
+TO;Porto Nacional;RO;Porto Velho;grao;2977,8;0
+TO;Babaculandia;RO;Porto Velho;grao;3389,3;0
+TO;Gurupi;RO;Porto Velho;grao;2760,8;0
+GO;Porangatu;RO;Porto Velho;grao;2864,7;0
+GO;Santa Isabel;RO;Porto Velho;grao;3113,6;0
+GO;Sao Simao;RO;Porto Velho;grao;3745;0
+MT;Lucas do Rio Verde;PA;Itaituba;grao;1140;0
+MT;Sinop;PA;Itaituba;grao;990;0
+MT;Ipora;PA;Itaituba;grao;750;0
+MT;Guaranta do Norte;PA;Itaituba;grao;640;0
+PA;Novo Progresso;PA;Itaituba;grao;520;0
+SP;Panorama;SP;Santos;grao;902;0
+PR;Jacarezinho;SP;Santos;grao;565;0
+GO;Iacri;SP;Santos;grao;1500;0
+SP;Orlandia;SP;Santos;grao;618;0
+MG;Santa Juliana;SP;Santos;grao;833;0
+SP;Serrana;SP;Santos;grao;593;0
+PR;Jussara;PR;Paranagua;grao;720;0
+MS;Maracaju;PR;Paranagua;grao;1140;0
+GO;Iacri;ES;Vitoria;grao;1961,1;0
+MS;Chapadao do Sul;SP;Santos;grao;1194;0
+MS;Costa Rica;SP;Santos;grao;1308;0
+MG;Araguari;SP;Santos;grao;930;0
+MG;Uberlandia;SP;Santos;grao;869;0
+PR;Jataizinho;PR;Paranagua;grao;666;0
+PR;Paranagua;PR;Paranagua;grao;14;0
+MG;Araguari;ES;Vitoria;grao;1402;0
+DF;Brasilia;ES;Vitoria;grao;1823;0
+GO;Luziania;ES;Vitoria;grao;1764;0
+MG;Pirapora;ES;Vitoria;grao;1046;0
+MG;Santa Luzia;ES;Vitoria;grao;656;0
+GO;Silvania;ES;Vitoria;grao;1750;0
+MG;Uberlandia;ES;Vitoria;grao;1459;0
+MS;Chapadao do Sul;SP;Paulinia;grao;941;0
+MS;Costa Rica;SP;Paulinia;grao;1055;0
+MG;Santa Juliana;SP;Paulinia;grao;549;0
+MG;Uberaba;SP;Paulinia;grao;423;0
+MG;Uberlandia;SP;Paulinia;grao;586;0
+GO;Anapolis;RO;Porto Velho;grao;3287,2;0
+GO;Rio Verde;RO;Porto Velho;grao;3569,2;0

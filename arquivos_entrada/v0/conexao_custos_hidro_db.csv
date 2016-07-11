@@ -1,0 +1,480 @@
+APARECIDA DO TABOADOMS;MS;Aparecida do Taboado;ARAGUARIMG;MG;Araguari;Araguari;512
+AGUA CLARAMS;MS;Agua Clara;ARAGUARIMG;MG;Araguari;Araguari;832
+AMAMBAIPK183MS;MS;Amambai;ARAGUARIMG;MG;Araguari;Araguari;1.207
+ANHEMBISP;SP;Anhembi;ARAGUARIMG;MG;Araguari;Araguari;0
+ARACATUBASP;SP;Aracatuba;ARAGUARIMG;MG;Araguari;Araguari;736
+ARAGUARIMG;MG;Araguari;ARAGUARIMG;MG;Araguari;Araguari;70
+BARCARENAPA;PA;Barcarena;ARAGUARIMG;MG;Araguari;Araguari;0
+BARRA BONITASP;SP;Barra Bonita;ARAGUARIMG;MG;Araguari;Araguari;0
+BOISPK175GO;GO;Inaciolandia;ARAGUARIMG;MG;Araguari;Araguari;456
+BORBOREMASP;SP;Borborema;ARAGUARIMG;MG;Araguari;Araguari;676
+BURITAMASP;SP;Buritama;ARAGUARIMG;MG;Araguari;Araguari;0
+CASTELANDIAGO;GO;Castelandia;ARAGUARIMG;MG;Araguari;Araguari;355
+EUCLIDES DA CUNHA PAULISTASP;SP;Euclides da Cunha Paulista;ARAGUARIMG;MG;Araguari;Araguari;0
+GUAIRAPR;PR;Guaira;ARAGUARIMG;MG;Araguari;Araguari;1.115
+IBITINGASP;SP;Ibitinga;ARAGUARIMG;MG;Araguari;Araguari;936
+INOCENCIAMS;MS;Inocencia;ARAGUARIMG;MG;Araguari;Araguari;726
+ITAITUBAPA;PA;Itaituba;ARAGUARIMG;MG;Araguari;Araguari;0
+ITUMBIARAGO;GO;Itumbiara;ARAGUARIMG;MG;Araguari;Araguari;142
+ITURAMAMG;MG;Iturama;ARAGUARIMG;MG;Araguari;Araguari;0
+IVINHEMAMS;MS;Ivinhema;ARAGUARIMG;MG;Araguari;Araguari;1.072
+JUSSARAPR;PR;Jussara;ARAGUARIMG;MG;Araguari;Araguari;1.231
+JUTIMS;MS;Juti;ARAGUARIMG;MG;Araguari;Araguari;1.130
+MARACAJUMS;MS;Maracaju;ARAGUARIMG;MG;Araguari;Araguari;1.349
+NAVIRAIMS;MS;Navirai;ARAGUARIMG;MG;Araguari;Araguari;1.120
+PANORAMASP;SP;Panorama;ARAGUARIMG;MG;Araguari;Araguari;713
+PARDOPK214MS;MS;Santa Rita do Pardo;ARAGUARIMG;MG;Araguari;Araguari;976
+PEREIRA BARRETOSP;SP;Pereira Barreto;ARAGUARIMG;MG;Araguari;Araguari;730
+PEDERNEIRASSP;SP;Pederneiras;ARAGUARIMG;MG;Araguari;Araguari;0
+PORTO RICOPR;PR;Porto Rico;ARAGUARIMG;MG;Araguari;Araguari;0
+PORTO VELHORO;RO;Porto Velho;ARAGUARIMG;MG;Araguari;Araguari;0
+PRESIDENTE EPITACIOSP;SP;Presidente Epitacio;ARAGUARIMG;MG;Araguari;Araguari;771
+RIO BRILHANTEMS;MS;Rio Brilhante;ARAGUARIMG;MG;Araguari;Araguari;1.249
+ROSANASP;SP;Rosana;ARAGUARIMG;MG;Araguari;Araguari;890
+SABINOSP;SP;Sabino;ARAGUARIMG;MG;Araguari;Araguari;804
+SANTA HELENAPR;PR;Santa Helena;ARAGUARIMG;MG;Araguari;Araguari;0
+SAO SIMAOGO;GO;Sao Simao;ARAGUARIMG;MG;Araguari;Araguari;375
+SUCURIUPK170MS;MS;Alto Sucuriu;ARAGUARIMG;MG;Araguari;Araguari;799
+TEODORO SAMPAIOSP;SP;Teodoro Sampaio;ARAGUARIMG;MG;Araguari;Araguari;1.025
+TRES LAGOASMS;MS;Tres Lagoas;ARAGUARIMG;MG;Araguari;Araguari;636
+UBARANASP;SP;Ubarana;ARAGUARIMG;MG;Araguari;Araguari;0
+APARECIDA DO TABOADOMS;MS;Aparecida do Taboado;ANHEMBISP;SP;Anhembi;Anhembi;640
+AGUA CLARAMS;MS;Agua Clara;ANHEMBISP;SP;Anhembi;Anhembi;777
+AMAMBAIPK183MS;MS;Amambai;ANHEMBISP;SP;Anhembi;Anhembi;1.152
+ANHEMBISP;SP;Anhembi;ANHEMBISP;SP;Anhembi;Anhembi;0
+ARACATUBASP;SP;Aracatuba;ANHEMBISP;SP;Anhembi;Anhembi;421
+ARAGUARIMG;MG;Araguari;ANHEMBISP;SP;Anhembi;Anhembi;1.205
+BARCARENAPA;PA;Barcarena;ANHEMBISP;SP;Anhembi;Anhembi;0
+BARRA BONITASP;SP;Barra Bonita;ANHEMBISP;SP;Anhembi;Anhembi;72
+BOISPK175GO;GO;Inaciolandia;ANHEMBISP;SP;Anhembi;Anhembi;1.085
+BORBOREMASP;SP;Borborema;ANHEMBISP;SP;Anhembi;Anhembi;246
+BURITAMASP;SP;Buritama;ANHEMBISP;SP;Anhembi;Anhembi;377
+CASTELANDIAGO;GO;Castelandia;ANHEMBISP;SP;Anhembi;Anhembi;984
+EUCLIDES DA CUNHA PAULISTASP;SP;Euclides da Cunha Paulista;ANHEMBISP;SP;Anhembi;Anhembi;919
+GUAIRAPR;PR;Guaira;ANHEMBISP;SP;Anhembi;Anhembi;1.060
+IBITINGASP;SP;Ibitinga;ANHEMBISP;SP;Anhembi;Anhembi;196
+INOCENCIAMS;MS;Inocencia;ANHEMBISP;SP;Anhembi;Anhembi;671
+ITAITUBAPA;PA;Itaituba;ANHEMBISP;SP;Anhembi;Anhembi;0
+ITUMBIARAGO;GO;Itumbiara;ANHEMBISP;SP;Anhembi;Anhembi;983
+ITURAMAMG;MG;Iturama;ANHEMBISP;SP;Anhembi;Anhembi;103
+IVINHEMAMS;MS;Ivinhema;ANHEMBISP;SP;Anhembi;Anhembi;1.017
+JUSSARAPR;PR;Jussara;ANHEMBISP;SP;Anhembi;Anhembi;1.176
+JUTIMS;MS;Juti;ANHEMBISP;SP;Anhembi;Anhembi;1.075
+MARACAJUMS;MS;Maracaju;ANHEMBISP;SP;Anhembi;Anhembi;1.294
+NAVIRAIMS;MS;Navirai;ANHEMBISP;SP;Anhembi;Anhembi;978
+PANORAMASP;SP;Panorama;ANHEMBISP;SP;Anhembi;Anhembi;646
+PARDOPK214MS;MS;Santa Rita do Pardo;ANHEMBISP;SP;Anhembi;Anhembi;910
+PEREIRA BARRETOSP;SP;Pereira Barreto;ANHEMBISP;SP;Anhembi;Anhembi;481
+PEDERNEIRASSP;SP;Pederneiras;ANHEMBISP;SP;Anhembi;Anhembi;105
+PORTO RICOPR;PR;Porto Rico;ANHEMBISP;SP;Anhembi;Anhembi;881
+PORTO VELHORO;RO;Porto Velho;ANHEMBISP;SP;Anhembi;Anhembi;0
+PRESIDENTE EPITACIOSP;SP;Presidente Epitacio;ANHEMBISP;SP;Anhembi;Anhembi;716
+RIO BRILHANTEMS;MS;Rio Brilhante;ANHEMBISP;SP;Anhembi;Anhembi;1.194
+ROSANASP;SP;Rosana;ANHEMBISP;SP;Anhembi;Anhembi;851
+SABINOSP;SP;Sabino;ANHEMBISP;SP;Anhembi;Anhembi;379
+SANTA HELENAPR;PR;Santa Helena;ANHEMBISP;SP;Anhembi;Anhembi;1.173
+SAO SIMAOGO;GO;Sao Simao;ANHEMBISP;SP;Anhembi;Anhembi;760
+SUCURIUPK170MS;MS;Alto Sucuriu;ANHEMBISP;SP;Anhembi;Anhembi;734
+TEODORO SAMPAIOSP;SP;Teodoro Sampaio;ANHEMBISP;SP;Anhembi;Anhembi;974
+TRES LAGOASMS;MS;Tres Lagoas;ANHEMBISP;SP;Anhembi;Anhembi;564
+UBARANASP;SP;Ubarana;ANHEMBISP;SP;Anhembi;Anhembi;406
+APARECIDA DO TABOADOMS;MS;Aparecida do Taboado;CONCHASSP;SP;Conchas;Conchas;679
+AGUA CLARAMS;MS;Agua Clara;CONCHASSP;SP;Conchas;Conchas;816
+AMAMBAIPK183MS;MS;Amambai;CONCHASSP;SP;Conchas;Conchas;1.191
+ANHEMBISP;SP;Anhembi;CONCHASSP;SP;Conchas;Conchas;39
+ARACATUBASP;SP;Aracatuba;CONCHASSP;SP;Conchas;Conchas;460
+ARAGUARIMG;MG;Araguari;CONCHASSP;SP;Conchas;Conchas;1.244
+BARCARENAPA;PA;Barcarena;CONCHASSP;SP;Conchas;Conchas;0
+BARRA BONITASP;SP;Barra Bonita;CONCHASSP;SP;Conchas;Conchas;111
+BOISPK175GO;GO;Inaciolandia;CONCHASSP;SP;Conchas;Conchas;1.124
+BORBOREMASP;SP;Borborema;CONCHASSP;SP;Conchas;Conchas;285
+BURITAMASP;SP;Buritama;CONCHASSP;SP;Conchas;Conchas;416
+CASTELANDIAGO;GO;Castelandia;CONCHASSP;SP;Conchas;Conchas;1.023
+EUCLIDES DA CUNHA PAULISTASP;SP;Euclides da Cunha Paulista;CONCHASSP;SP;Conchas;Conchas;958
+GUAIRAPR;PR;Guaira;CONCHASSP;SP;Conchas;Conchas;1.099
+IBITINGASP;SP;Ibitinga;CONCHASSP;SP;Conchas;Conchas;235
+INOCENCIAMS;MS;Inocencia;CONCHASSP;SP;Conchas;Conchas;710
+ITAITUBAPA;PA;Itaituba;CONCHASSP;SP;Conchas;Conchas;0
+ITUMBIARAGO;GO;Itumbiara;CONCHASSP;SP;Conchas;Conchas;1.022
+ITURAMAMG;MG;Iturama;CONCHASSP;SP;Conchas;Conchas;103
+IVINHEMAMS;MS;Ivinhema;CONCHASSP;SP;Conchas;Conchas;1.056
+JUSSARAPR;PR;Jussara;CONCHASSP;SP;Conchas;Conchas;1.215
+JUTIMS;MS;Juti;CONCHASSP;SP;Conchas;Conchas;1.114
+MARACAJUMS;MS;Maracaju;CONCHASSP;SP;Conchas;Conchas;1.333
+NAVIRAIMS;MS;Navirai;CONCHASSP;SP;Conchas;Conchas;1.017
+PANORAMASP;SP;Panorama;CONCHASSP;SP;Conchas;Conchas;685
+PARDOPK214MS;MS;Santa Rita do Pardo;CONCHASSP;SP;Conchas;Conchas;949
+PEREIRA BARRETOSP;SP;Pereira Barreto;CONCHASSP;SP;Conchas;Conchas;520
+PEDERNEIRASSP;SP;Pederneiras;CONCHASSP;SP;Conchas;Conchas;144
+PORTO RICOPR;PR;Porto Rico;CONCHASSP;SP;Conchas;Conchas;920
+PORTO VELHORO;RO;Porto Velho;CONCHASSP;SP;Conchas;Conchas;0
+PRESIDENTE EPITACIOSP;SP;Presidente Epitacio;CONCHASSP;SP;Conchas;Conchas;755
+RIO BRILHANTEMS;MS;Rio Brilhante;CONCHASSP;SP;Conchas;Conchas;1.233
+ROSANASP;SP;Rosana;CONCHASSP;SP;Conchas;Conchas;890
+SABINOSP;SP;Sabino;CONCHASSP;SP;Conchas;Conchas;418
+SANTA HELENAPR;PR;Santa Helena;CONCHASSP;SP;Conchas;Conchas;1.212
+SAO SIMAOGO;GO;Sao Simao;CONCHASSP;SP;Conchas;Conchas;799
+SUCURIUPK170MS;MS;Alto Sucuriu;CONCHASSP;SP;Conchas;Conchas;773
+TEODORO SAMPAIOSP;SP;Teodoro Sampaio;CONCHASSP;SP;Conchas;Conchas;1.013
+TRES LAGOASMS;MS;Tres Lagoas;CONCHASSP;SP;Conchas;Conchas;603
+UBARANASP;SP;Ubarana;CONCHASSP;SP;Conchas;Conchas;445
+APARECIDA DO TABOADOMS;MS;Aparecida do Taboado;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+AGUA CLARAMS;MS;Agua Clara;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+AMAMBAIPK183MS;MS;Amambai;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+ANHEMBISP;SP;Anhembi;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+ARACATUBASP;SP;Aracatuba;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+ARAGUARIMG;MG;Araguari;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+BARCARENAPA;PA;Barcarena;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+BARRA BONITASP;SP;Barra Bonita;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+BOISPK175GO;GO;Inaciolandia;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+BORBOREMASP;SP;Borborema;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+BURITAMASP;SP;Buritama;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+CASTELANDIAGO;GO;Castelandia;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+EUCLIDES DA CUNHA PAULISTASP;SP;Euclides da Cunha Paulista;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+GUAIRAPR;PR;Guaira;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+IBITINGASP;SP;Ibitinga;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+INOCENCIAMS;MS;Inocencia;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+ITAITUBAPA;PA;Itaituba;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+ITUMBIARAGO;GO;Itumbiara;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+ITURAMAMG;MG;Iturama;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+IVINHEMAMS;MS;Ivinhema;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+JUSSARAPR;PR;Jussara;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+JUTIMS;MS;Juti;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+MARACAJUMS;MS;Maracaju;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+NAVIRAIMS;MS;Navirai;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+PANORAMASP;SP;Panorama;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+PARDOPK214MS;MS;Santa Rita do Pardo;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+PEREIRA BARRETOSP;SP;Pereira Barreto;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+PEDERNEIRASSP;SP;Pederneiras;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+PORTO RICOPR;PR;Porto Rico;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+PORTO VELHORO;RO;Porto Velho;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;1.106
+PRESIDENTE EPITACIOSP;SP;Presidente Epitacio;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+RIO BRILHANTEMS;MS;Rio Brilhante;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+ROSANASP;SP;Rosana;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+SABINOSP;SP;Sabino;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+SANTA HELENAPR;PR;Santa Helena;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+SAO SIMAOGO;GO;Sao Simao;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+SUCURIUPK170MS;MS;Alto Sucuriu;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+TEODORO SAMPAIOSP;SP;Teodoro Sampaio;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+TRES LAGOASMS;MS;Tres Lagoas;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+UBARANASP;SP;Ubarana;ITACOATIARAAM;SP;Itacoatiara;Itacoatiara;0
+APARECIDA DO TABOADOMS;MS;Aparecida do Taboado;JATAIZINHOPR;SP;Jataizinho;Jataizinho;699
+AGUA CLARAMS;MS;Agua Clara;JATAIZINHOPR;SP;Jataizinho;Jataizinho;529
+AMAMBAIPK183MS;MS;Amambai;JATAIZINHOPR;SP;Jataizinho;Jataizinho;623
+ANHEMBISP;SP;Anhembi;JATAIZINHOPR;SP;Jataizinho;Jataizinho;0
+ARACATUBASP;SP;Aracatuba;JATAIZINHOPR;SP;Jataizinho;Jataizinho;740
+ARAGUARIMG;MG;Araguari;JATAIZINHOPR;SP;Jataizinho;Jataizinho;1.146
+BARCARENAPA;PA;Barcarena;JATAIZINHOPR;SP;Jataizinho;Jataizinho;0
+BARRA BONITASP;SP;Barra Bonita;JATAIZINHOPR;SP;Jataizinho;Jataizinho;0
+BOISPK175GO;GO;Inaciolandia;JATAIZINHOPR;SP;Jataizinho;Jataizinho;1.026
+BORBOREMASP;SP;Borborema;JATAIZINHOPR;SP;Jataizinho;Jataizinho;654
+BURITAMASP;SP;Buritama;JATAIZINHOPR;SP;Jataizinho;Jataizinho;0
+CASTELANDIAGO;GO;Castelandia;JATAIZINHOPR;SP;Jataizinho;Jataizinho;925
+EUCLIDES DA CUNHA PAULISTASP;SP;Euclides da Cunha Paulista;JATAIZINHOPR;SP;Jataizinho;Jataizinho;0
+GUAIRAPR;PR;Guaira;JATAIZINHOPR;SP;Jataizinho;Jataizinho;531
+IBITINGASP;SP;Ibitinga;JATAIZINHOPR;SP;Jataizinho;Jataizinho;965
+INOCENCIAMS;MS;Inocencia;JATAIZINHOPR;SP;Jataizinho;Jataizinho;704
+ITAITUBAPA;PA;Itaituba;JATAIZINHOPR;SP;Jataizinho;Jataizinho;0
+ITUMBIARAGO;GO;Itumbiara;JATAIZINHOPR;SP;Jataizinho;Jataizinho;1.074
+ITURAMAMG;MG;Iturama;JATAIZINHOPR;SP;Jataizinho;Jataizinho;0
+IVINHEMAMS;MS;Ivinhema;JATAIZINHOPR;SP;Jataizinho;Jataizinho;488
+JUSSARAPR;PR;Jussara;JATAIZINHOPR;SP;Jataizinho;Jataizinho;647
+JUTIMS;MS;Juti;JATAIZINHOPR;SP;Jataizinho;Jataizinho;546
+MARACAJUMS;MS;Maracaju;JATAIZINHOPR;SP;Jataizinho;Jataizinho;765
+NAVIRAIMS;MS;Navirai;JATAIZINHOPR;SP;Jataizinho;Jataizinho;526
+PANORAMASP;SP;Panorama;JATAIZINHOPR;SP;Jataizinho;Jataizinho;513
+PARDOPK214MS;MS;Santa Rita do Pardo;JATAIZINHOPR;SP;Jataizinho;Jataizinho;678
+PEREIRA BARRETOSP;SP;Pereira Barreto;JATAIZINHOPR;SP;Jataizinho;Jataizinho;734
+PEDERNEIRASSP;SP;Pederneiras;JATAIZINHOPR;SP;Jataizinho;Jataizinho;0
+PORTO RICOPR;PR;Porto Rico;JATAIZINHOPR;SP;Jataizinho;Jataizinho;0
+PORTO VELHORO;RO;Porto Velho;JATAIZINHOPR;SP;Jataizinho;Jataizinho;0
+PRESIDENTE EPITACIOSP;SP;Presidente Epitacio;JATAIZINHOPR;SP;Jataizinho;Jataizinho;455
+RIO BRILHANTEMS;MS;Rio Brilhante;JATAIZINHOPR;SP;Jataizinho;Jataizinho;665
+ROSANASP;SP;Rosana;JATAIZINHOPR;SP;Jataizinho;Jataizinho;343
+SABINOSP;SP;Sabino;JATAIZINHOPR;SP;Jataizinho;Jataizinho;782
+SANTA HELENAPR;PR;Santa Helena;JATAIZINHOPR;SP;Jataizinho;Jataizinho;0
+SAO SIMAOGO;GO;Sao Simao;JATAIZINHOPR;SP;Jataizinho;Jataizinho;851
+SUCURIUPK170MS;MS;Alto Sucuriu;JATAIZINHOPR;SP;Jataizinho;Jataizinho;767
+TEODORO SAMPAIOSP;SP;Teodoro Sampaio;JATAIZINHOPR;SP;Jataizinho;Jataizinho;220
+TRES LAGOASMS;MS;Tres Lagoas;JATAIZINHOPR;SP;Jataizinho;Jataizinho;590
+UBARANASP;SP;Ubarana;JATAIZINHOPR;SP;Jataizinho;Jataizinho;0
+APARECIDA DO TABOADOMS;MS;Aparecida do Taboado;BARCARENAPA;PA;Barcarena;Barcarena;0
+AGUA CLARAMS;MS;Agua Clara;BARCARENAPA;PA;Barcarena;Barcarena;0
+AMAMBAIPK183MS;MS;Amambai;BARCARENAPA;PA;Barcarena;Barcarena;0
+ANHEMBISP;SP;Anhembi;BARCARENAPA;PA;Barcarena;Barcarena;0
+ARACATUBASP;SP;Aracatuba;BARCARENAPA;PA;Barcarena;Barcarena;0
+ARAGUARIMG;MG;Araguari;BARCARENAPA;PA;Barcarena;Barcarena;0
+BARCARENAPA;PA;Barcarena;BARCARENAPA;PA;Barcarena;Barcarena;0
+BARRA BONITASP;SP;Barra Bonita;BARCARENAPA;PA;Barcarena;Barcarena;0
+BOISPK175GO;GO;Inaciolandia;BARCARENAPA;PA;Barcarena;Barcarena;0
+BORBOREMASP;SP;Borborema;BARCARENAPA;PA;Barcarena;Barcarena;0
+BURITAMASP;SP;Buritama;BARCARENAPA;PA;Barcarena;Barcarena;0
+CASTELANDIAGO;GO;Castelandia;BARCARENAPA;PA;Barcarena;Barcarena;0
+EUCLIDES DA CUNHA PAULISTASP;SP;Euclides da Cunha Paulista;BARCARENAPA;PA;Barcarena;Barcarena;0
+GUAIRAPR;PR;Guaira;BARCARENAPA;PA;Barcarena;Barcarena;0
+IBITINGASP;SP;Ibitinga;BARCARENAPA;PA;Barcarena;Barcarena;0
+INOCENCIAMS;MS;Inocencia;BARCARENAPA;PA;Barcarena;Barcarena;0
+ITAITUBAPA;PA;Itaituba;BARCARENAPA;PA;Barcarena;Barcarena;1.107
+ITUMBIARAGO;GO;Itumbiara;BARCARENAPA;PA;Barcarena;Barcarena;0
+ITURAMAMG;MG;Iturama;BARCARENAPA;PA;Barcarena;Barcarena;0
+IVINHEMAMS;MS;Ivinhema;BARCARENAPA;PA;Barcarena;Barcarena;0
+JUSSARAPR;PR;Jussara;BARCARENAPA;PA;Barcarena;Barcarena;0
+JUTIMS;MS;Juti;BARCARENAPA;PA;Barcarena;Barcarena;0
+MARACAJUMS;MS;Maracaju;BARCARENAPA;PA;Barcarena;Barcarena;0
+NAVIRAIMS;MS;Navirai;BARCARENAPA;PA;Barcarena;Barcarena;0
+PANORAMASP;SP;Panorama;BARCARENAPA;PA;Barcarena;Barcarena;0
+PARDOPK214MS;MS;Santa Rita do Pardo;BARCARENAPA;PA;Barcarena;Barcarena;0
+PEREIRA BARRETOSP;SP;Pereira Barreto;BARCARENAPA;PA;Barcarena;Barcarena;0
+PEDERNEIRASSP;SP;Pederneiras;BARCARENAPA;PA;Barcarena;Barcarena;0
+PORTO RICOPR;PR;Porto Rico;BARCARENAPA;PA;Barcarena;Barcarena;0
+PORTO VELHORO;RO;Porto Velho;BARCARENAPA;PA;Barcarena;Barcarena;2.503
+PRESIDENTE EPITACIOSP;SP;Presidente Epitacio;BARCARENAPA;PA;Barcarena;Barcarena;0
+RIO BRILHANTEMS;MS;Rio Brilhante;BARCARENAPA;PA;Barcarena;Barcarena;0
+ROSANASP;SP;Rosana;BARCARENAPA;PA;Barcarena;Barcarena;0
+SABINOSP;SP;Sabino;BARCARENAPA;PA;Barcarena;Barcarena;0
+SANTA HELENAPR;PR;Santa Helena;BARCARENAPA;PA;Barcarena;Barcarena;0
+SAO SIMAOGO;GO;Sao Simao;BARCARENAPA;PA;Barcarena;Barcarena;0
+SUCURIUPK170MS;MS;Alto Sucuriu;BARCARENAPA;PA;Barcarena;Barcarena;0
+TEODORO SAMPAIOSP;SP;Teodoro Sampaio;BARCARENAPA;PA;Barcarena;Barcarena;0
+TRES LAGOASMS;MS;Tres Lagoas;BARCARENAPA;PA;Barcarena;Barcarena;0
+UBARANASP;SP;Ubarana;BARCARENAPA;PA;Barcarena;Barcarena;0
+APARECIDA DO TABOADOMS;MS;Aparecida do Taboado;JUSSARAPR;PR;Jussara;Jussara;714
+AGUA CLARAMS;MS;Agua Clara;JUSSARAPR;PR;Jussara;Jussara;689
+AMAMBAIPK183MS;MS;Amambai;JUSSARAPR;PR;Jussara;Jussara;428
+ANHEMBISP;SP;Anhembi;JUSSARAPR;PR;Jussara;Jussara;0
+ARACATUBASP;SP;Aracatuba;JUSSARAPR;PR;Jussara;Jussara;755
+ARAGUARIMG;MG;Araguari;JUSSARAPR;PR;Jussara;Jussara;1.161
+BARCARENAPA;PA;Barcarena;JUSSARAPR;PR;Jussara;Jussara;0
+BARRA BONITASP;SP;Barra Bonita;JUSSARAPR;PR;Jussara;Jussara;0
+BOISPK175GO;GO;Inaciolandia;JUSSARAPR;PR;Jussara;Jussara;1.041
+BORBOREMASP;SP;Borborema;JUSSARAPR;PR;Jussara;Jussara;669
+BURITAMASP;SP;Buritama;JUSSARAPR;PR;Jussara;Jussara;0
+CASTELANDIAGO;GO;Castelandia;JUSSARAPR;PR;Jussara;Jussara;940
+EUCLIDES DA CUNHA PAULISTASP;SP;Euclides da Cunha Paulista;JUSSARAPR;PR;Jussara;Jussara;0
+GUAIRAPR;PR;Guaira;JUSSARAPR;PR;Jussara;Jussara;346
+IBITINGASP;SP;Ibitinga;JUSSARAPR;PR;Jussara;Jussara;980
+INOCENCIAMS;MS;Inocencia;JUSSARAPR;PR;Jussara;Jussara;719
+ITAITUBAPA;PA;Itaituba;JUSSARAPR;PR;Jussara;Jussara;0
+ITUMBIARAGO;GO;Itumbiara;JUSSARAPR;PR;Jussara;Jussara;1.089
+ITURAMAMG;MG;Iturama;JUSSARAPR;PR;Jussara;Jussara;0
+IVINHEMAMS;MS;Ivinhema;JUSSARAPR;PR;Jussara;Jussara;361
+JUSSARAPR;PR;Jussara;JUSSARAPR;PR;Jussara;Jussara;0
+JUTIMS;MS;Juti;JUSSARAPR;PR;Jussara;Jussara;351
+MARACAJUMS;MS;Maracaju;JUSSARAPR;PR;Jussara;Jussara;638
+NAVIRAIMS;MS;Navirai;JUSSARAPR;PR;Jussara;Jussara;331
+PANORAMASP;SP;Panorama;JUSSARAPR;PR;Jussara;Jussara;528
+PARDOPK214MS;MS;Santa Rita do Pardo;JUSSARAPR;PR;Jussara;Jussara;683
+PEREIRA BARRETOSP;SP;Pereira Barreto;JUSSARAPR;PR;Jussara;Jussara;749
+PEDERNEIRASSP;SP;Pederneiras;JUSSARAPR;PR;Jussara;Jussara;0
+PORTO RICOPR;PR;Porto Rico;JUSSARAPR;PR;Jussara;Jussara;0
+PORTO VELHORO;RO;Porto Velho;JUSSARAPR;PR;Jussara;Jussara;0
+PRESIDENTE EPITACIOSP;SP;Presidente Epitacio;JUSSARAPR;PR;Jussara;Jussara;470
+RIO BRILHANTEMS;MS;Rio Brilhante;JUSSARAPR;PR;Jussara;Jussara;538
+ROSANASP;SP;Rosana;JUSSARAPR;PR;Jussara;Jussara;348
+SABINOSP;SP;Sabino;JUSSARAPR;PR;Jussara;Jussara;755
+SANTA HELENAPR;PR;Santa Helena;JUSSARAPR;PR;Jussara;Jussara;0
+SAO SIMAOGO;GO;Sao Simao;JUSSARAPR;PR;Jussara;Jussara;866
+SUCURIUPK170MS;MS;Alto Sucuriu;JUSSARAPR;PR;Jussara;Jussara;782
+TEODORO SAMPAIOSP;SP;Teodoro Sampaio;JUSSARAPR;PR;Jussara;Jussara;471
+TRES LAGOASMS;MS;Tres Lagoas;JUSSARAPR;PR;Jussara;Jussara;605
+UBARANASP;SP;Ubarana;JUSSARAPR;PR;Jussara;Jussara;0
+APARECIDA DO TABOADOMS;MS;Aparecida do Taboado;LARANJALSP;SP;Laranjal;Laranjal;716
+AGUA CLARAMS;MS;Agua Clara;LARANJALSP;SP;Laranjal;Laranjal;853
+AMAMBAIPK183MS;MS;Amambai;LARANJALSP;SP;Laranjal;Laranjal;1.228
+ANHEMBISP;SP;Anhembi;LARANJALSP;SP;Laranjal;Laranjal;76
+ARACATUBASP;SP;Aracatuba;LARANJALSP;SP;Laranjal;Laranjal;497
+ARAGUARIMG;MG;Araguari;LARANJALSP;SP;Laranjal;Laranjal;1.281
+BARCARENAPA;PA;Barcarena;LARANJALSP;SP;Laranjal;Laranjal;0
+BARRA BONITASP;SP;Barra Bonita;LARANJALSP;SP;Laranjal;Laranjal;148
+BOISPK175GO;GO;Inaciolandia;LARANJALSP;SP;Laranjal;Laranjal;1.161
+BORBOREMASP;SP;Borborema;LARANJALSP;SP;Laranjal;Laranjal;322
+BURITAMASP;SP;Buritama;LARANJALSP;SP;Laranjal;Laranjal;453
+CASTELANDIAGO;GO;Castelandia;LARANJALSP;SP;Laranjal;Laranjal;1.060
+EUCLIDES DA CUNHA PAULISTASP;SP;Euclides da Cunha Paulista;LARANJALSP;SP;Laranjal;Laranjal;995
+GUAIRAPR;PR;Guaira;LARANJALSP;SP;Laranjal;Laranjal;1.136
+IBITINGASP;SP;Ibitinga;LARANJALSP;SP;Laranjal;Laranjal;272
+INOCENCIAMS;MS;Inocencia;LARANJALSP;SP;Laranjal;Laranjal;747
+ITAITUBAPA;PA;Itaituba;LARANJALSP;SP;Laranjal;Laranjal;0
+ITUMBIARAGO;GO;Itumbiara;LARANJALSP;SP;Laranjal;Laranjal;1.059
+ITURAMAMG;MG;Iturama;LARANJALSP;SP;Laranjal;Laranjal;103
+IVINHEMAMS;MS;Ivinhema;LARANJALSP;SP;Laranjal;Laranjal;1.093
+JUSSARAPR;PR;Jussara;LARANJALSP;SP;Laranjal;Laranjal;1.252
+JUTIMS;MS;Juti;LARANJALSP;SP;Laranjal;Laranjal;1.151
+MARACAJUMS;MS;Maracaju;LARANJALSP;SP;Laranjal;Laranjal;1.370
+NAVIRAIMS;MS;Navirai;LARANJALSP;SP;Laranjal;Laranjal;1.054
+PANORAMASP;SP;Panorama;LARANJALSP;SP;Laranjal;Laranjal;722
+PARDOPK214MS;MS;Santa Rita do Pardo;LARANJALSP;SP;Laranjal;Laranjal;986
+PEREIRA BARRETOSP;SP;Pereira Barreto;LARANJALSP;SP;Laranjal;Laranjal;557
+PEDERNEIRASSP;SP;Pederneiras;LARANJALSP;SP;Laranjal;Laranjal;181
+PORTO RICOPR;PR;Porto Rico;LARANJALSP;SP;Laranjal;Laranjal;957
+PORTO VELHORO;RO;Porto Velho;LARANJALSP;SP;Laranjal;Laranjal;0
+PRESIDENTE EPITACIOSP;SP;Presidente Epitacio;LARANJALSP;SP;Laranjal;Laranjal;792
+RIO BRILHANTEMS;MS;Rio Brilhante;LARANJALSP;SP;Laranjal;Laranjal;1.270
+ROSANASP;SP;Rosana;LARANJALSP;SP;Laranjal;Laranjal;927
+SABINOSP;SP;Sabino;LARANJALSP;SP;Laranjal;Laranjal;455
+SANTA HELENAPR;PR;Santa Helena;LARANJALSP;SP;Laranjal;Laranjal;1.249
+SAO SIMAOGO;GO;Sao Simao;LARANJALSP;SP;Laranjal;Laranjal;836
+SUCURIUPK170MS;MS;Alto Sucuriu;LARANJALSP;SP;Laranjal;Laranjal;810
+TEODORO SAMPAIOSP;SP;Teodoro Sampaio;LARANJALSP;SP;Laranjal;Laranjal;1.050
+TRES LAGOASMS;MS;Tres Lagoas;LARANJALSP;SP;Laranjal;Laranjal;640
+UBARANASP;SP;Ubarana;LARANJALSP;SP;Laranjal;Laranjal;482
+APARECIDA DO TABOADOMS;MS;Aparecida do Taboado;OURINHOSSP;SP;Ourinhos;Ourinhos;799
+AGUA CLARAMS;MS;Agua Clara;OURINHOSSP;SP;Ourinhos;Ourinhos;629
+AMAMBAIPK183MS;MS;Amambai;OURINHOSSP;SP;Ourinhos;Ourinhos;723
+ANHEMBISP;SP;Anhembi;OURINHOSSP;SP;Ourinhos;Ourinhos;0
+ARACATUBASP;SP;Aracatuba;OURINHOSSP;SP;Ourinhos;Ourinhos;840
+ARAGUARIMG;MG;Araguari;OURINHOSSP;SP;Ourinhos;Ourinhos;1.246
+BARCARENAPA;PA;Barcarena;OURINHOSSP;SP;Ourinhos;Ourinhos;0
+BARRA BONITASP;SP;Barra Bonita;OURINHOSSP;SP;Ourinhos;Ourinhos;0
+BOISPK175GO;GO;Inaciolandia;OURINHOSSP;SP;Ourinhos;Ourinhos;1.126
+BORBOREMASP;SP;Borborema;OURINHOSSP;SP;Ourinhos;Ourinhos;754
+BURITAMASP;SP;Buritama;OURINHOSSP;SP;Ourinhos;Ourinhos;0
+CASTELANDIAGO;GO;Castelandia;OURINHOSSP;SP;Ourinhos;Ourinhos;1.025
+EUCLIDES DA CUNHA PAULISTASP;SP;Euclides da Cunha Paulista;OURINHOSSP;SP;Ourinhos;Ourinhos;0
+GUAIRAPR;PR;Guaira;OURINHOSSP;SP;Ourinhos;Ourinhos;631
+IBITINGASP;SP;Ibitinga;OURINHOSSP;SP;Ourinhos;Ourinhos;1.065
+INOCENCIAMS;MS;Inocencia;OURINHOSSP;SP;Ourinhos;Ourinhos;804
+ITAITUBAPA;PA;Itaituba;OURINHOSSP;SP;Ourinhos;Ourinhos;0
+ITUMBIARAGO;GO;Itumbiara;OURINHOSSP;SP;Ourinhos;Ourinhos;1.174
+ITURAMAMG;MG;Iturama;OURINHOSSP;SP;Ourinhos;Ourinhos;0
+IVINHEMAMS;MS;Ivinhema;OURINHOSSP;SP;Ourinhos;Ourinhos;588
+JUSSARAPR;PR;Jussara;OURINHOSSP;SP;Ourinhos;Ourinhos;747
+JUTIMS;MS;Juti;OURINHOSSP;SP;Ourinhos;Ourinhos;646
+MARACAJUMS;MS;Maracaju;OURINHOSSP;SP;Ourinhos;Ourinhos;865
+NAVIRAIMS;MS;Navirai;OURINHOSSP;SP;Ourinhos;Ourinhos;626
+PANORAMASP;SP;Panorama;OURINHOSSP;SP;Ourinhos;Ourinhos;613
+PARDOPK214MS;MS;Santa Rita do Pardo;OURINHOSSP;SP;Ourinhos;Ourinhos;778
+PEREIRA BARRETOSP;SP;Pereira Barreto;OURINHOSSP;SP;Ourinhos;Ourinhos;834
+PEDERNEIRASSP;SP;Pederneiras;OURINHOSSP;SP;Ourinhos;Ourinhos;0
+PORTO RICOPR;PR;Porto Rico;OURINHOSSP;SP;Ourinhos;Ourinhos;0
+PORTO VELHORO;RO;Porto Velho;OURINHOSSP;SP;Ourinhos;Ourinhos;0
+PRESIDENTE EPITACIOSP;SP;Presidente Epitacio;OURINHOSSP;SP;Ourinhos;Ourinhos;555
+RIO BRILHANTEMS;MS;Rio Brilhante;OURINHOSSP;SP;Ourinhos;Ourinhos;765
+ROSANASP;SP;Rosana;OURINHOSSP;SP;Ourinhos;Ourinhos;443
+SABINOSP;SP;Sabino;OURINHOSSP;SP;Ourinhos;Ourinhos;882
+SANTA HELENAPR;PR;Santa Helena;OURINHOSSP;SP;Ourinhos;Ourinhos;0
+SAO SIMAOGO;GO;Sao Simao;OURINHOSSP;SP;Ourinhos;Ourinhos;951
+SUCURIUPK170MS;MS;Alto Sucuriu;OURINHOSSP;SP;Ourinhos;Ourinhos;867
+TEODORO SAMPAIOSP;SP;Teodoro Sampaio;OURINHOSSP;SP;Ourinhos;Ourinhos;320
+TRES LAGOASMS;MS;Tres Lagoas;OURINHOSSP;SP;Ourinhos;Ourinhos;690
+UBARANASP;SP;Ubarana;OURINHOSSP;SP;Ourinhos;Ourinhos;0
+APARECIDA DO TABOADOMS;MS;Aparecida do Taboado;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;535
+AGUA CLARAMS;MS;Agua Clara;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;672
+AMAMBAIPK183MS;MS;Amambai;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;1.047
+ANHEMBISP;SP;Anhembi;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;0
+ARACATUBASP;SP;Aracatuba;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;316
+ARAGUARIMG;MG;Araguari;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;1.100
+BARCARENAPA;PA;Barcarena;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;0
+BARRA BONITASP;SP;Barra Bonita;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;0
+BOISPK175GO;GO;Inaciolandia;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;980
+BORBOREMASP;SP;Borborema;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;141
+BURITAMASP;SP;Buritama;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;0
+CASTELANDIAGO;GO;Castelandia;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;879
+EUCLIDES DA CUNHA PAULISTASP;SP;Euclides da Cunha Paulista;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;0
+GUAIRAPR;PR;Guaira;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;955
+IBITINGASP;SP;Ibitinga;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;91
+INOCENCIAMS;MS;Inocencia;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;566
+ITAITUBAPA;PA;Itaituba;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;0
+ITUMBIARAGO;GO;Itumbiara;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;878
+ITURAMAMG;MG;Iturama;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;0
+IVINHEMAMS;MS;Ivinhema;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;912
+JUSSARAPR;PR;Jussara;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;1.071
+JUTIMS;MS;Juti;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;970
+MARACAJUMS;MS;Maracaju;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;1.189
+NAVIRAIMS;MS;Navirai;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;873
+PANORAMASP;SP;Panorama;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;541
+PARDOPK214MS;MS;Santa Rita do Pardo;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;805
+PEREIRA BARRETOSP;SP;Pereira Barreto;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;376
+PEDERNEIRASSP;SP;Pederneiras;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;0
+PORTO RICOPR;PR;Porto Rico;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;0
+PORTO VELHORO;RO;Porto Velho;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;0
+PRESIDENTE EPITACIOSP;SP;Presidente Epitacio;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;611
+RIO BRILHANTEMS;MS;Rio Brilhante;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;1.089
+ROSANASP;SP;Rosana;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;746
+SABINOSP;SP;Sabino;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;274
+SANTA HELENAPR;PR;Santa Helena;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;0
+SAO SIMAOGO;GO;Sao Simao;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;655
+SUCURIUPK170MS;MS;Alto Sucuriu;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;629
+TEODORO SAMPAIOSP;SP;Teodoro Sampaio;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;869
+TRES LAGOASMS;MS;Tres Lagoas;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;459
+UBARANASP;SP;Ubarana;PEDERNEIRASSP;SP;Pederneiras;Pederneiras;0
+APARECIDA DO TABOADOMS;MS;Aparecida do Taboado;SANTAREMPA;PA;Santarem;Santarem;0
+AGUA CLARAMS;MS;Agua Clara;SANTAREMPA;PA;Santarem;Santarem;0
+AMAMBAIPK183MS;MS;Amambai;SANTAREMPA;PA;Santarem;Santarem;0
+ANHEMBISP;SP;Anhembi;SANTAREMPA;PA;Santarem;Santarem;0
+ARACATUBASP;SP;Aracatuba;SANTAREMPA;PA;Santarem;Santarem;0
+ARAGUARIMG;MG;Araguari;SANTAREMPA;PA;Santarem;Santarem;0
+BARCARENAPA;PA;Barcarena;SANTAREMPA;PA;Santarem;Santarem;827
+BARRA BONITASP;SP;Barra Bonita;SANTAREMPA;PA;Santarem;Santarem;0
+BOISPK175GO;GO;Inaciolandia;SANTAREMPA;PA;Santarem;Santarem;0
+BORBOREMASP;SP;Borborema;SANTAREMPA;PA;Santarem;Santarem;0
+BURITAMASP;SP;Buritama;SANTAREMPA;PA;Santarem;Santarem;0
+CASTELANDIAGO;GO;Castelandia;SANTAREMPA;PA;Santarem;Santarem;0
+EUCLIDES DA CUNHA PAULISTASP;SP;Euclides da Cunha Paulista;SANTAREMPA;PA;Santarem;Santarem;0
+GUAIRAPR;PR;Guaira;SANTAREMPA;PA;Santarem;Santarem;0
+IBITINGASP;SP;Ibitinga;SANTAREMPA;PA;Santarem;Santarem;0
+INOCENCIAMS;MS;Inocencia;SANTAREMPA;PA;Santarem;Santarem;0
+ITAITUBAPA;PA;Itaituba;SANTAREMPA;PA;Santarem;Santarem;280
+ITUMBIARAGO;GO;Itumbiara;SANTAREMPA;PA;Santarem;Santarem;0
+ITURAMAMG;MG;Iturama;SANTAREMPA;PA;Santarem;Santarem;0
+IVINHEMAMS;MS;Ivinhema;SANTAREMPA;PA;Santarem;Santarem;0
+JUSSARAPR;PR;Jussara;SANTAREMPA;PA;Santarem;Santarem;0
+JUTIMS;MS;Juti;SANTAREMPA;PA;Santarem;Santarem;0
+MARACAJUMS;MS;Maracaju;SANTAREMPA;PA;Santarem;Santarem;0
+NAVIRAIMS;MS;Navirai;SANTAREMPA;PA;Santarem;Santarem;0
+PANORAMASP;SP;Panorama;SANTAREMPA;PA;Santarem;Santarem;0
+PARDOPK214MS;MS;Santa Rita do Pardo;SANTAREMPA;PA;Santarem;Santarem;0
+PEREIRA BARRETOSP;SP;Pereira Barreto;SANTAREMPA;PA;Santarem;Santarem;0
+PEDERNEIRASSP;SP;Pederneiras;SANTAREMPA;PA;Santarem;Santarem;0
+PORTO RICOPR;PR;Porto Rico;SANTAREMPA;PA;Santarem;Santarem;0
+PORTO VELHORO;RO;Porto Velho;SANTAREMPA;PA;Santarem;Santarem;1.676
+PRESIDENTE EPITACIOSP;SP;Presidente Epitacio;SANTAREMPA;PA;Santarem;Santarem;0
+RIO BRILHANTEMS;MS;Rio Brilhante;SANTAREMPA;PA;Santarem;Santarem;0
+ROSANASP;SP;Rosana;SANTAREMPA;PA;Santarem;Santarem;0
+SABINOSP;SP;Sabino;SANTAREMPA;PA;Santarem;Santarem;0
+SANTA HELENAPR;PR;Santa Helena;SANTAREMPA;PA;Santarem;Santarem;0
+SAO SIMAOGO;GO;Sao Simao;SANTAREMPA;PA;Santarem;Santarem;0
+SUCURIUPK170MS;MS;Alto Sucuriu;SANTAREMPA;PA;Santarem;Santarem;0
+TEODORO SAMPAIOSP;SP;Teodoro Sampaio;SANTAREMPA;PA;Santarem;Santarem;0
+TRES LAGOASMS;MS;Tres Lagoas;SANTAREMPA;PA;Santarem;Santarem;0
+UBARANASP;SP;Ubarana;SANTAREMPA;PA;Santarem;Santarem;0
+APARECIDA DO TABOADOMS;MS;Aparecida do Taboado;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;1.074
+AGUA CLARAMS;MS;Agua Clara;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;1.049
+AMAMBAIPK183MS;MS;Amambai;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;788
+ANHEMBISP;SP;Anhembi;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;0
+ARACATUBASP;SP;Aracatuba;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;1.115
+ARAGUARIMG;MG;Araguari;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;1.521
+BARCARENAPA;PA;Barcarena;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;0
+BARRA BONITASP;SP;Barra Bonita;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;0
+BOISPK175GO;GO;Inaciolandia;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;1.401
+BORBOREMASP;SP;Borborema;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;1.029
+BURITAMASP;SP;Buritama;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;0
+CASTELANDIAGO;GO;Castelandia;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;1.300
+EUCLIDES DA CUNHA PAULISTASP;SP;Euclides da Cunha Paulista;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;0
+GUAIRAPR;PR;Guaira;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;706
+IBITINGASP;SP;Ibitinga;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;1.340
+INOCENCIAMS;MS;Inocencia;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;1.079
+ITAITUBAPA;PA;Itaituba;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;0
+ITUMBIARAGO;GO;Itumbiara;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;1.449
+ITURAMAMG;MG;Iturama;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;0
+IVINHEMAMS;MS;Ivinhema;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;721
+JUSSARAPR;PR;Jussara;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;360
+JUTIMS;MS;Juti;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;711
+MARACAJUMS;MS;Maracaju;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;998
+NAVIRAIMS;MS;Navirai;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;691
+PANORAMASP;SP;Panorama;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;888
+PARDOPK214MS;MS;Santa Rita do Pardo;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;1.043
+PEREIRA BARRETOSP;SP;Pereira Barreto;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;1.109
+PEDERNEIRASSP;SP;Pederneiras;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;0
+PORTO RICOPR;PR;Porto Rico;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;0
+PORTO VELHORO;RO;Porto Velho;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;0
+PRESIDENTE EPITACIOSP;SP;Presidente Epitacio;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;830
+RIO BRILHANTEMS;MS;Rio Brilhante;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;898
+ROSANASP;SP;Rosana;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;708
+SABINOSP;SP;Sabino;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;1.115
+SANTA HELENAPR;PR;Santa Helena;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;0
+SAO SIMAOGO;GO;Sao Simao;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;1.226
+SUCURIUPK170MS;MS;Alto Sucuriu;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;1.142
+TEODORO SAMPAIOSP;SP;Teodoro Sampaio;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;831
+TRES LAGOASMS;MS;Tres Lagoas;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;965
+UBARANASP;SP;Ubarana;TEREZA CRISTINAPR;PR;Candido de Abreu;Tereza Cristina;0
